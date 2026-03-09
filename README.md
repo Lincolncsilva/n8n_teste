@@ -5,7 +5,7 @@ Este projeto consiste em uma automação desenvolvida no **n8n** para o processa
 ## 📺 Demonstração e Explicação Técnica
 Assista ao vídeo abaixo para entender a arquitetura do fluxo, as expressões utilizadas e a resolução do desafio "oculto":
 
-[Clique aqui para assistir ao vídeo de apresentação](https://github.com/user-attachments/assets/d71136d2-d61c-41e0-88ff-debdb1b3c836) 
+[Clique aqui para assistir ao vídeo de apresentação]() 
 
 ---
 
